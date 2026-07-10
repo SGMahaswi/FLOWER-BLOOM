@@ -80,7 +80,7 @@ FLOWER-BLOOM/
 
 ## 🙋 Author
 
-Built by **Maha** ([@s_g_maha](https://github.com/s_g_maha))
+Built by **Maha** ([@SGMahaswi](https://github.com/SGMahaswi))
 
 ## 📄 License
 
